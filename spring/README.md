@@ -1,5 +1,3 @@
-UPDATE: server runs
-
 ### Spring boot API REST, and Image builder.
 
 #### Dependencies
